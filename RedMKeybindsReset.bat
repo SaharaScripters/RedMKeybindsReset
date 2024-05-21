@@ -19,9 +19,9 @@ IF EXIST "%appdata%\CitizenFX\" (
     ::Final messages to show
     echo.
     echo  +------------------------------------+
-    echo  ^|                             		 ^|
-    echo  ^|[RedM CFG File Has Been Deleted] ^|
-    echo  ^|                        		     ^|
+    echo  ^|                        		 ^|
+    echo  ^|[RedM CFG File Has Been Deleted]^|
+    echo  ^|                        		 ^|
     echo  +------------------------------------+
     timeout /t 5
 ) ELSE (
