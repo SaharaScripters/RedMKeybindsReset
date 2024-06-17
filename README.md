@@ -49,3 +49,7 @@ Use this script at your own risk. While it has been tested, there is no guarante
 ## Contribution
 
 Contributions to enhance or improve this script are welcome. Feel free to open an issue or submit a pull request with your suggestions.
+
+## Need Help?
+
+[![Need Help?](https://cdn.imgpile.com/f/yryoDqk_xl.png)](https://discord.gg/kQxzuyqnkR)
